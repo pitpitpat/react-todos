@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  display: flex;
+  height: 100vh;
+}
+
+.todoHeader {
+  margin-top: 0;
+}
+
+.todosPanel {
+  padding: 30px;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.todoDetailsPanel {
+  padding: 30px;
+  border-left: 1px solid #ccc;
+  width: 50%;
+  box-shadow: 0px 1px 6px -4px black;
+  box-sizing: border-box;
+}

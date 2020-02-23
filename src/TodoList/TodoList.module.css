@@ -1,0 +1,33 @@
+.btn {
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    border: 1px solid #ccc;
+    box-shadow: 0px 1px 6px -4px black;
+    background-color: #FFFFFF;
+    color: #333333;
+}
+
+.todoContainer {
+    margin-top: 10px;
+}
+
+.todoBtn {
+    width: 91%;
+    margin-right: 1%;
+}
+.todoBtn:hover {
+    background-color: #F7F7F7;
+}
+
+.todoText {
+    margin-right: 10px;
+}
+
+.deleteBtn {
+    width: 8%;
+}
+.deleteBtn:hover {
+    background-color: red;
+    color: #FFFFFF;
+}

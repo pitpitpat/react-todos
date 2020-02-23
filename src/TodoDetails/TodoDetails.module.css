@@ -1,0 +1,12 @@
+.detailInput {
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    padding: 5px 10px;
+    font-size: 1.2rem;
+    margin-right: 10px;
+}
+
+.detailLabel {
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+}
